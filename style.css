@@ -1,0 +1,43 @@
+body{
+    background-image: url(pngtree-abstract-repeating-plus-pattern-silver-color-geometric-on-black-background-picture-image_1812772.jpg);
+    color: snow;
+    font-family: "Signika Negative", sans-serif;
+}
+
+.logo h1 a{
+    text-decoration: none;
+    color: snow;
+    
+}
+
+fieldset{
+    border: 3px solid snow;
+    border-radius: 8px;
+    padding: 100px;
+    margin:   100px;
+    position: sticky;
+}
+fieldset legend{
+    color: snow;
+    font-size:30px ;
+    text-transform: capitalize;
+    
+}
+div input{
+    
+    border-radius: 4px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-color:snow ;
+}
+.bm input[type=submit] {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
